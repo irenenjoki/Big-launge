@@ -1,8 +1,4 @@
-# BigLaunge
-
-
-
-# Live Demo
-Demo Link : **https://irenenjoki.github.io/Big-launge/menu.html**
+## BigLaunge 👋
+<a href="https://irenenjoki.github.io/Big-launge/">Demo</a>
 
 
